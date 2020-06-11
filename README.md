@@ -1,5 +1,5 @@
-# Renamer-TG-Bot
-## [AnyDLBot](https://telegram.dog/AnyDLBot)
+[@ALL_MOVIES_LIABRARY]
+## [N I K H I L](https://telegram.dog/ALL_MOVIES_LIABRARY)
 ---
 
 **There are multiple things I can do**:
@@ -20,13 +20,13 @@
 
 #### The Easiest Way
 
-**upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
+**upgrade** your subscription for [@ALL_MOVIES_LIABRARY] (https://telegram.dog/RANAMENGY) without having to run anything on your own
 
 #### The Easy Way
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-JOIN OUR CHANNEL : @ALL_MOVIES_LIABRARY
+JOIN OUR CHANNEL : [@ALL_MOVIES_LIABRARY]
 
 #### The Hard Way
 
