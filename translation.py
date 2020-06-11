@@ -5,14 +5,14 @@ This is a Telegram Rename Bot!
 /help for more details.."""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "<b>👉 join our Updates Channel @NRBotsZ. </b>  /help for Details"
+    UPGRADE_TEXT = "<b>👉 join our Updates Channel @ALL_MOVIES_LIABRARY. </b>  /help for Details"
     DOWNLOAD_START = "Trying to Download"
     UPLOAD_START = "Trying to Upload"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me🤓.** \n Join:- @NRBotsZ"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
-    NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/NRBotsZ>@NRBotsZ</a>"
+    NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ALL_MOVIES_LIABRARY>@ALL_MOVIES_LIABRARY</a>"
     SAVED_CUSTOM_THUMB_NAIL = "Custom File thumbnail saved. This image will be used in the File."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
@@ -27,7 +27,7 @@ This is a Telegram Rename Bot!
    
 
 --------
-Support Group : @NRBotsZ
+Support Group : @MOVIERG_NY
 """
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.."
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
@@ -37,5 +37,5 @@ Free users only 1 request per 30 minutes.
     IFLONG_FILE_NAME = """File Name limit allowed by Telegram is {alimit} characters.
 The given file name has {num} characters.
 <b>Essays Not allowed in Telegram file name!</b>
-©️ <code>@NRBotsZ</code>
+©️ <code>@ALL_MOVIES_LIABRARY</code>
 Please short your file name and try again!"""
