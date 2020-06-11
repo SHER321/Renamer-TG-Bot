@@ -4,7 +4,7 @@
 
 **There are multiple things I can do**:
 
-👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
+👉 All Supported Video Formats of .........
 
 👉 Upload as file from any HTTP link
 
@@ -20,7 +20,7 @@
 
 #### The Easiest Way
 
-**upgrade** your subscription for [@ALL_MOVIES_LIABRARY] (https://telegram.dog/RANAMENGY) without having to run anything on your own
+**upgrade** your subscription for [@ALL_MOVIES_LIABRARY](https://telegram.dog/RANAMENGY_BOT) without having to run anything on your own
 
 #### The Easy Way
 
